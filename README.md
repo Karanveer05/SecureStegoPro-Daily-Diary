@@ -63,6 +63,6 @@
 ## 👨‍💻 Author
 **Karanveer Singh**  
 B.Tech (CSE), Guru Nanak Dev Engineering College, Ludhiana   
-🔗 GitHub: [github.com/Karanveer03](https://github.com/Karanveer03)
+🔗 GitHub: [github.com/Karanveer05](https://github.com/Karanveer05)
 
 ---
